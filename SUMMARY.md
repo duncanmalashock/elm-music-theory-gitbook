@@ -14,7 +14,6 @@
   * [Working with pitches](key-concepts/interval/working-with-pitches.md)
   * [What intervals are and how they work](key-concepts/interval/introducing-intervals.md)
   * [Modeling intervals](key-concepts/interval/modeling-intervals.md)
-  * [Issues](key-concepts/interval/challenges.md)
 * [Scales](key-concepts/scales/README.md)
   * [Example: the C major scale](key-concepts/scales/untitled.md)
   * [Scale classes](key-concepts/scales/scale-classes.md)
