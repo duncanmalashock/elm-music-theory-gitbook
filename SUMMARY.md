@@ -47,6 +47,7 @@
     * [Substitute double lead voicings](key-concepts/voicings/jazz-voicing-techniques/substitute-double-lead-voicings.md)
   * [Validation criteria for voicings](key-concepts/voicings/criteria-for-voicings.md)
   * [Decisions when choosing a voicing](key-concepts/voicings/decisions-when-choosing-voicing.md)
+  * [Untitled](key-concepts/voicings/untitled.md)
 
 ---
 
