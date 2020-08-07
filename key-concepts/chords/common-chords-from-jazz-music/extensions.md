@@ -14,7 +14,7 @@ A unique feature of jazz harmony is its use of chordal [_extensions_](https://en
 * **Eleventh**
 * **Thirteenth**
 
-The ninth, eleventh, and thirteenth chord factors are the **extensions** of a jazz chord. **Extensions do not continue past the thirteenth**, because at that point all seven letter names of a scale have been accounted for.
+The ninth, eleventh, and thirteenth chord factors are the **extensions** of a jazz chord. **Extensions do not continue past the thirteenth**, because at that point all seven letter names of the major scale have been accounted for.
 
 ### Examples
 
