@@ -21,7 +21,7 @@ The C major scale has seven degrees. Musicians call these types of scales _hepta
 * Hexatonic: 6 degrees
 * Pentatonic: 5 degrees
 
-There are scales of other numbers of degrees, such as 4, 12, and even 1. I think 1- and 4-degree scales are not of much practical use, and the 12-degree chromatic scale, which contains all 12 semitones, seems impossible to spell correctly \(sharps or flats?\).
+There are scales of other numbers of degrees, such as 4, 12, and even 1. I think 1- and 4-degree scales are not of much practical use, and the 12-degree chromatic scale, which contains all 12 semitones, has only one instance, regardless of tonic.
 
 {% hint style="info" %}
 You may be wondering where the major scale came from. So am I! Many people have tried to trace the development of the major scale, but its origins are so distant that we may never understand how it was originally created. I think the best we can say is that it is as much a product of physical phenomena \(e.g. the [harmonic series](https://en.wikipedia.org/wiki/Harmonic_series_%28music%29)\) as it is a product of cultural processes.

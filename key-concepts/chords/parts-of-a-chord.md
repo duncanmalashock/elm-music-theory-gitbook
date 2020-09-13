@@ -26,7 +26,7 @@ Why are thirds so popular as a building block for chords? The reason is largely 
 
 **The specific intervals included in a chord determine what musicians call the chord's** [**quality**](https://en.wikipedia.org/wiki/Chord_letters#Chord_quality). In our example, the presence of a major third and a perfect fifth up from its root give it the quality of a "major" triad.
 
-As with relationships between intervals to the tonic of a scale, a chord's quality is distinct from its root; in other words, a C major chord and a D major chord have the same intervals, just like a C major scale and a D major scale do. You could call a chord's quality its "chord class", if you wanted to.
+As with relationships between intervals to the tonic of a scale, a chord's quality is distinct from its root; in other words, a C major chord and a D major chord have the same intervals, just like a C major scale and a D major scale do. You could call a chord's quality its "chord type", if you wanted to.
 
 How many chord qualities are there? The answer is complicated...
 

@@ -4,7 +4,6 @@
 
 * There are twelve semitones to the octave, which, by convention, are represented as pitch classes using letter names and optional accidentals
 * Pitches are instances of pitch classes in a particular octave
-* Octaves should be limited to a practical range
 
 Here is my model of a `PitchClass`, which allows an arbitrary semitone offset given the possibility of any number of accidentals:
 

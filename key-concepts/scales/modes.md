@@ -2,7 +2,7 @@
 
 [Modes](https://en.wikipedia.org/wiki/Mode_%28music%29#Modern_modes) are **scales derived from a parent scale** by choosing one of its degrees as the new tonic.
 
-For example, the second mode of C major is called D Dorian, and its pitch classes are the same, but they begin at D instead of C. They are D, E, F, G, A, B, and C. Compare their intervals \(or "scale class"\) to those of C major, and you'll see they are different:
+For example, the second mode of C major is called D Dorian, and its pitch classes are the same, but they begin at D instead of C. They are D, E, F, G, A, B, and C. Compare their intervals \(or "scale type"\) to those of C major, and you'll see they are different:
 
 * D to E: Major second
 * D to F: Minor third

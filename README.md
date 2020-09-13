@@ -4,7 +4,7 @@ description: A toolkit for musical ideas
 
 # Introduction
 
-[https://github.com/duncanmalashock/music-theory](https://github.com/duncanmalashock/music-theory)
+[https://github.com/duncanmalashock/elm-music-theory](https://github.com/duncanmalashock/elm-music-theory)
 
 ## Overview
 

@@ -12,6 +12,6 @@ In his book [Jazz Arranging Techniques](https://lindsayjazz.com/jazz-arranging-t
 This categorization method forms the basis for many of the techniques we'll look at next.
 
 {% hint style="info" %}
-As we discussed, jazz musicians often speak in terms of "available tensions" for use in a chord, although technically these substitutions transform one chord class into another.
+As we discussed, jazz musicians often speak in terms of "available tensions" for use in a chord, although technically these substitutions transform one chord type into another.
 {% endhint %}
 

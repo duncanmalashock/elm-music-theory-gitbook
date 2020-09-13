@@ -14,21 +14,21 @@
 * A chord's name can be written as a symbol, sometimes in many different ways
 * Some chords have no name
 
-## Modeling `ChordClass`
+## Modeling `ChordType`
 
-A `ChordClass` is a definition of chord quality apart from a particular root as a list of intervals:
+A `ChordType` is a definition of chord quality apart from a particular root as a list of intervals:
 
 ```text
-type ChordClass
-    = ChordClass (List Interval)
+type ChordType
+    = ChordType (List Interval)
 ```
 
-ChordClasses can be instantiated by building up factors with some helper functions:
+`ChordType`s can be instantiated by building up factors with some helper functions:
 
 ```text
-majorSixNine : ChordClass
+majorSixNine : ChordType
 majorSixNine =
-    chordClass
+    custom
         |> withMajorThird
         |> withFifth
         |> withSixth
@@ -37,10 +37,10 @@ majorSixNine =
 
 ## Modeling `Chord`
 
-`ChordClass` and `Chord` work have a similar abstract/concrete relationship like those between `PitchClass` and `Pitch`, and `ScaleClass` and `Scale`. A `Chord` is a `ChordClass` with a root defined by a `PitchClass`:
+`ChordType` and `Chord` work have a similar abstract/concrete relationship like those between `PitchClass` and `Pitch`, and `ScaleType` and `Scale`. A `Chord` is a `ChordType` with a root defined by a `PitchClass`:
 
 ```text
 type Chord
-    = Chord PitchClass.PitchClass ChordClass.ChordClass
+    = Chord PitchClass.PitchClass ChordType.ChordType
 ```
 

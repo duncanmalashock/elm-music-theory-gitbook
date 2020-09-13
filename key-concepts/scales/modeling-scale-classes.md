@@ -1,4 +1,4 @@
-# Modeling scale classes
+# Modeling scale types
 
 ## Goals when modeling scales
 
@@ -7,9 +7,9 @@
 * Scales can have different numbers of degrees, but all pitch classes are within the range of an octave
 * The modes of scales can be musically useful
 
-## Modeling `ScaleClass`
+## Modeling `ScaleType`
 
-A `ScaleClass` is a type representing a limited set of scale classes offered by the library:
+A `ScaleType` is a type representing a limited set of scale types offered by the library:
 
 ```text
 type ScaleClass
@@ -59,11 +59,11 @@ type alias OctatonicIntervals =
 
 ## Modeling `Scale`
 
-Whereas a `ScaleClass` represents a set of intervals, a Scale represents a set of pitch classes, and can be constructed by transposing a tonic pitch class by those intervals. So a `Scale` is modeled as:
+Whereas a `ScaleType` represents a set of intervals, a Scale represents a set of pitch classes, and can be constructed by transposing a tonic pitch class by those intervals. So a `Scale` is modeled as:
 
 ```text
 type Scale
-    = Scale PitchClass ScaleClass
+    = Scale PitchClass ScaleType
 
 
 type ScaleDegrees
